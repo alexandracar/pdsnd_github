@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+Feb. 12, 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Python Project
 
 ### Description
-Describe what your project is about and what it does
+My project outputs bikeshare user statistics for certain months of the year and days of the week from either New York, Chicago, or Washington.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Here are some websites I utilized for further assistance with the project:
+https://askubuntu.com/questions/894022/git-branch-not-showing-branches-in-terminal
+https://www.atlassian.com/git/tutorials/using-branches
+https://support.beanstalkapp.com/article/848-getting-started-with-git-creating-your-repository
+https://editorconfig.org/
+https://udacity.github.io/git-styleguide/
