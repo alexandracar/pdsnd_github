@@ -44,7 +44,7 @@ def get_filters():
     if month == 'yes':
         month = 'all'
     else:
-        month = input('\nWould you like to see data for a specific month? Choose from January to June\n').lower()
+        month = input('\nWould you like to see data for a certain month? Choose from January to June\n').lower()
         while True:
             if month not in ['january', 'february', 'march', 'april', 'may', 'june']:
                 month = input('Incorrect entry.\n Please choose out of the first six months\n').lower()
@@ -52,7 +52,8 @@ def get_filters():
                 break
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
-    day = input('Would you like to see data for all days of the week? Yes or No\n').lower()
+    day = input('Would you like to see data for each weekday? Yes or No\n').lower()
+    # Use all for all data for each weekday
     if day == 'yes':
         day = 'all'
     else:
