@@ -1,11 +1,11 @@
 ### Date created
-Feb. 12, 2021
+February 12, 2021
 
 ### Project Title
 Bikeshare Python Project
 
 ### Description
-My project outputs bikeshare user statistics for certain months of the year and days of the week from either New York, Chicago, or Washington.
+My project outputs bikeshare user statistics for the first six months of the year and days of the week from either New York, Chicago, or Washington. Also diplaying data for different genders and their birth years.
 
 ### Files used
 chicago.csv
@@ -19,3 +19,4 @@ https://www.atlassian.com/git/tutorials/using-branches
 https://support.beanstalkapp.com/article/848-getting-started-with-git-creating-your-repository
 https://editorconfig.org/
 https://udacity.github.io/git-styleguide/
+Also, special thanks to JB
